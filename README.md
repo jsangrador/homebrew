@@ -1,3 +1,5 @@
+Development of this fork has been moved to https://gitlab.com/jsangradorp/homebrew
+
 # Homebrew
 Features, usage and installation instructions are [summarised on the homepage](http://brew.sh).
 
